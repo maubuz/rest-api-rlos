@@ -1,7 +1,7 @@
   
-# The HTTP Protocol: URLs, HTTP methods, status codes, headers and body.  
+# HTTP Protocol: URLs, HTTP methods, status codes, headers and body.  
 
-This learning unit if part of the module _**Understand REST API Fundamentals**_  
+This learning unit if part of the module _**REST API Fundamentals**_  
 
 ## Learning Objectives  
 

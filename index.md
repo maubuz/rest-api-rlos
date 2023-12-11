@@ -15,13 +15,13 @@ hero:
       link: /exams
 
 features:
-  - title: 1. Understand REST API Fundamentals
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 1. REST API Fundamentals
+    details: Understand what are REST APIs and how they are used. Learn how the HTTP protocol works.
   - title: 2. Create API Requests
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Compare different REST API clients and Compose and execute GET, POST, PUT and DELETE requests.
   - title: 3. Use API Security Mechanisms
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Contrast and use different API authentication strategies and understand CORS.
   - title: 4. List and Modify API Data in User Applications
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Request API data with the browser's Fetch API. Parse JSON data to display and edit API resources. Handle network and API errors gracefully.
 ---
 

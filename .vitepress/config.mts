@@ -14,10 +14,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'REST API Fundamentals',
+        text: '1. REST API Fundamentals',
         items: [
           {
-            text: 'Intro to HTTP',
+            text: '1.1 Intro to HTTP',
             collapsed: false,
             items: [
               {
