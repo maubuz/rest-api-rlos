@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-12-10T07:19:55.314Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="72twckpw0Drw_KZE5BQS" version="22.1.7" type="device">
+  <diagram name="Page-1" id="i3e1QGJoxQhKDi4WDgqM">
+    <mxGraphModel dx="481" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="145.19" width="58.2" height="75.62" as="geometry" />
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-6" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="169.19" width="61" height="51.62" as="geometry" />
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;entryX=-0.046;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="213" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;entryX=-0.046;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+            <mxPoint x="317" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-12" value="2. Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="220.81" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-13" value="1. Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="139.19" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-15" value="&lt;i&gt;Client&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="220.81" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQNuxQr4DW9rGW_SAyMD-16" value="&lt;i&gt;Server&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321.6" y="220.81" width="75" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
